@@ -1,5 +1,13 @@
-# Sorting-Algorithm-Visualizer
+# Sorting Visualizer (C++ with SDL2)
 
- Created a visualizer to visualize working of various sorting algorithms like Selection Sort, Bubble Sort, Merge Sort, using
-SDL2
-– Implemented sorting algorithms from scratch with real-time visualization.
+This is a sorting algorithm visualizer implemented in C++ using SDL2.  
+It supports multiple sorting techniques and shows animated bar graphs.
+
+## 🧮 Supported Algorithms
+
+- Selection Sort
+- Insertion Sort
+- Bubble Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
